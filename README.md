@@ -103,7 +103,7 @@ PhilOShorts-AI excels at creating content about:
 - **ElevenLabs**: Voice synthesis
 - **EdgeTTS**: Free alternative voice synthesis
 - **Pexels**: Stock footage and images
-- **TindDB**: Persistence for editing variables
+- **TinyDB**: Persistence for editing variables
 
 ## 📄 License
 
