@@ -15,14 +15,14 @@ d8'   .8P 88     88  Y8.   .8P   88     88    88    Y8.   .88  88           88
  Y88888P  dP     dP   `8888P'    dP     dP    dP     `88888'   dP           dP
 
         ''')
-        CLI.display_green_text("Welcome to ShortGPT! This is an experimental AI framework to automate all aspects of content creation.")
+        CLI.display_green_text("Welcome to PhiloShort! This is an experimental AI framework to automate all aspects of content creation.")
         print("")
         CLI.display_requirements_check()
 
     @staticmethod
     def display_help():
         '''Display help'''
-        print("Usage: python shortGPT.py [options]")
+        print("Usage: python run_philoshort.py [options]")
         print("")
         print("Options:")
         print("  -h, --help            show this help message and exit")

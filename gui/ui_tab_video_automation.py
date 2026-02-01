@@ -177,7 +177,7 @@ class VideoAutomationUI(AbstractComponentUI):
         self.script = ""
         self.video_html = ""
         self.videoVisible = False
-        return [[None, "🤖 Welcome to ShortGPT! 🚀 I'm a python framework aiming to simplify and automate your video editing tasks.\nLet's get started! 🎥🎬\n\n Do you want your video to be in landscape or vertical format? (landscape OR vertical)"]]
+        return [[None, "🤖 Welcome to PhiloShort! 🚀 I'm an AI framework aiming to simplify and automate your video creation tasks.\nLet's get started! 🎥🎬\n\n Do you want your video to be in landscape or vertical format? (landscape OR vertical)"]]
 
     def reset_conversation(self):
         self.state = Chatstate.ASK_ORIENTATION

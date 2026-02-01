@@ -6,7 +6,7 @@ import Home from '../components/Home';
 function HomePage() {
   return (
     <Layout
-      title="ShortGPT: Automate Content Creation with AI"
+      title="PhiloShort: Automate Content Creation with AI"
       description="Automating video and short content creation with AI "
     >
       <Home />

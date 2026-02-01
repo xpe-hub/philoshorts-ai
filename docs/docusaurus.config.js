@@ -6,14 +6,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: 'ShortGPT',
+    title: 'PhiloShort',
     tagline:
       'Open-Source Framework for AI content automation',
-    url: 'https://dev.shortgpt.ai',
+    url: 'https://xpe-hub.github.io/philoshorts-ai',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'RayVentura',
-    projectName: 'ShortGPT',
+    organizationName: 'xpe-hub',
+    projectName: 'philoshorts-ai',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'throw',
     presets: [
@@ -25,7 +25,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             path: 'docs',
             sidebarPath: 'sidebars.js',
             editUrl:
-              'https://github.com/RayVentura/ShortGPT/edit/stable/docs/',
+              'https://github.com/xpe-hub/philoshorts-ai/edit/main/docs/',
             versions: {
               current: {
                 label: 'current',
@@ -49,7 +49,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
         navbar: {
           hideOnScroll: true,
           logo: {
-            alt: 'ShortGPT',
+            alt: 'PhiloShort',
             src: 'img/logo.png',
           },
           items: [
@@ -65,7 +65,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
               position: 'right',
             },
             {
-              href: 'https://github.com/RayVentura/ShortGPT',
+              href: 'https://github.com/xpe-hub/philoshorts-ai',
               position: 'right',
               className: 'header-github-link',
             },
@@ -78,7 +78,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
         },
         announcementBar: {
           content:
-            '⭐️ If you like ShortGPT, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/rayventura/shortgpt">GitHub</a>! ⭐️',
+            '⭐️ If you like PhiloShort, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/xpe-hub/philoshorts-ai">GitHub</a>! ⭐️',
         },
         footer: {
           links: [
@@ -93,11 +93,11 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
               ],
             },
             {
-              title: 'ShortGPT',
+              title: 'PhiloShort',
               items: [
                 {
                   label: 'Issues',
-                  to: 'https://github.com/RayVentura/ShortGPT/issues',
+                  to: 'https://github.com/xpe-hub/philoshorts-ai/issues',
                 },
               ],
             },
@@ -115,16 +115,12 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
               items: [
                 {
                   label: 'GitHub',
-                  to: 'https://github.com/RayVentura/ShortGPT',
-                },
-                {
-                  label: 'Twitter',
-                  to: 'https://twitter.com/RayVenturaHQ',
+                  to: 'https://github.com/xpe-hub/philoshorts-ai',
                 },
               ],
             },
           ],
-          copyright: `ShortGPT ${new Date().getFullYear()}`,
+          copyright: `PhiloShort ${new Date().getFullYear()}`,
         },
         prism: {
           theme: lightCodeTheme,

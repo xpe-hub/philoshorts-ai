@@ -24,7 +24,7 @@ function Home() {
           <>
 
             <span className="hero-title text-4xl leading-10 font-extrabold text-blue-600 md:text-4xl lg:text-4xl md:leading-11 max-w-xs inline-block">
-              🚀🎬 SHORTGPT
+              🚀🎬 PHILOSHORT
             </span>
             <span className="hero-title text-3xl leading-9 font-extrabold md:text-3xl lg:text-3xl md:leading-10 max-w-xxs inline-block">
               Opensource AI Content Automation Framework
@@ -56,7 +56,7 @@ function Home() {
                 Automating video and short content creation with AI
               </h3>
               <p className="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-description">
-                ShortGPT is a powerful framework for automating content creation. It simplifies video creation, footage sourcing, voiceover synthesis, and editing tasks.
+                PhiloShort is a powerful framework for automating content creation. It simplifies video creation, footage sourcing, voiceover synthesis, and editing tasks.
               </p>
             </div>
 
@@ -84,7 +84,7 @@ function Home() {
                         Automated editing framework
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        ShortGPT streamlines the video creation process with an LLM oriented video editing language, making it easier to automate editing tasks.
+                        PhiloShort streamlines the video creation process with an LLM oriented video editing language, making it easier to automate editing tasks.
                       </p>
                     </div>
                   </div>
@@ -113,7 +113,7 @@ function Home() {
                         Voiceover / Content Creation
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        ShortGPT supports multiple languages for voiceover synthesis, making it easy to create content in various languages.
+                        PhiloShort supports multiple languages for voiceover synthesis, making it easy to create content in various languages.
                       </p>
                     </div>
                   </div>
@@ -142,7 +142,7 @@ function Home() {
                         Asset Sourcing
                       </h4>
                       <p className="mt-2 text-base leading-6 text-description">
-                        ShortGPT can source images and video footage from the internet, allowing you to easily find and use relevant visuals.
+                        PhiloShort can source images and video footage from the internet, allowing you to easily find and use relevant visuals.
                       </p>
                     </div>
                   </div>
@@ -161,7 +161,7 @@ function Home() {
                   How it works
                 </h2>
                 <p className="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-                ShortGPT is an AI-powered framework that automates the process of content creation, from script generation to asset sourcing and video editing.
+                PhiloShort is an AI-powered framework that automates the process of content creation, from script generation to asset sourcing and video editing.
                 </p>
               </div>
             </div>
@@ -183,7 +183,7 @@ function Home() {
                         Automated Editing Framework
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-600">
-                      ShortGPT employs a heavy usage of LLMs and automated video editing libraries to streamline the video creation process (Ffmpeg, moviepy, ffprobe).
+                      PhiloShort employs a heavy usage of LLMs and automated video editing libraries to streamline the video creation process (Ffmpeg, moviepy, ffprobe).
                       </p>
                     </div>
                   </div>
@@ -201,7 +201,7 @@ function Home() {
                         Voiceover / Content Creation
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-600">
-                      ShortGPT integrates multiple neural voice synthesis engines (ElevenLabs, EdgeTTS), to allow human-like voice quality in the audio generated.
+                      PhiloShort integrates multiple neural voice synthesis engines (ElevenLabs, EdgeTTS), to allow human-like voice quality in the audio generated.
                       </p>
                     </div>
                   </div>
@@ -219,7 +219,7 @@ function Home() {
                         Asset Sourcing
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-600">
-                      ShortGPT is equipped with an advanced asset sourcing module that can retrieve images and video footage from the internet. This feature allows for the easy incorporation of relevant visuals into the content (Pexels, youtube, and more soon).
+                      PhiloShort is equipped with an advanced asset sourcing module that can retrieve images and video footage from the internet. This feature allows for the easy incorporation of relevant visuals into the content (Pexels, youtube, and more soon).
                       </p>
                     </div>
                   </div>
@@ -266,7 +266,7 @@ function Home() {
                           Automated Editing
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-300">
-                          ShortGPT automates the video editing process, making it faster and more efficient with the help of AI.
+                          PhiloShort automates the video editing process, making it faster and more efficient with the help of AI.
                         </p>
                       </div>
                     </div>
@@ -295,7 +295,7 @@ function Home() {
                           Voiceover / Content Creation
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-300">
-                          ShortGPT supports multiple languages for voiceover synthesis, making it easy to create content in various languages.
+                          PhiloShort supports multiple languages for voiceover synthesis, making it easy to create content in various languages.
                         </p>
                       </div>
                     </div>
@@ -329,7 +329,7 @@ function Home() {
                           Asset Sourcing
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-300">
-                          ShortGPT can source images and video footage from the internet, allowing you to easily find and use relevant visuals.
+                          PhiloShort can source images and video footage from the internet, allowing you to easily find and use relevant visuals.
                         </p>
                       </div>
                     </div>

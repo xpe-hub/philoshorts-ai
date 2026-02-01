@@ -13,9 +13,9 @@ LONG_DESCRIPTION = 'A powerful tool for automating content creation. It simplifi
 
 
 setup(
-    name="shortgpt",
+    name="philoshort",
     version=VERSION,
-    author="RayVentura",
+    author="xpe-hub",
     author_email="",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
